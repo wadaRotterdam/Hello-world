@@ -34,7 +34,18 @@ Portugal
 https://youtu.be/QOblwQbS2r4
 
 ***
-
+# Tabela
+ 
 Num | Nome | Nota
 --- | --- | --- 
 1  |  Walter | 8,5 
+2  | João  |. 7,3
+3 | Maria. | 10,8
+4 | Carlos | 13,6
+
+ Termino a Tabela 
+ ***
+ 
+ 
+ 
+ 
